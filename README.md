@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarkOxygen123
+- 👋 Hi, I’m Uthamkumar
 - 👀 I’m interested in learning new interesting things
 - 🌱 I’m currently learning Python
 - 📫 How to reach me b21025@students.iitmandi.ac.in
